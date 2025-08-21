@@ -420,7 +420,7 @@ int main() {
     else if (choice == 7) {
         std::vector<std::string> videoPaths = {
             //Youtube videos:
-            "C:\\Users\\fahre\\Pictures\\Camera Roll\\fahrettin baştürk.mp4"
+            "C:\\Users\\fahre\\Pictures\\Camera Roll\\example.mp4"
         
         // Add more video paths as needed
         };
@@ -452,3 +452,4 @@ int main() {
 
     return 0;
 }
+
